@@ -1,4 +1,6 @@
 # 省附人小作文计划
+<link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+<link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
 做了个仓库来存放大家的小作文，可以提出修改意见<br>  
 小作文可以是随笔、自由作文、课时作文、小说、戏剧、诗歌等<br>  
 （我们这里没有诗歌除外)<br>  
