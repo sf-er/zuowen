@@ -3,7 +3,7 @@
 小作文可以是随笔、自由作文、课时作文、小说、戏剧、诗歌等<br>  
 （我们这里没有诗歌除外)<br>  
 但是我们的小作文有区域限制，必须分区投稿。<br>  
-[记叙](https://github.com/sf-er/zuowen/edit/main/jixu/example.md)<br>  
+[记叙](https://github.com/sf-er/zuowen/edit/main/jixu/example.md)<br>
 [议论](https://github.com/sf-er/zuowen/edit/main/yilun/example.md)<br>
 [小说](https://github.com/sf-er/zuowen/edit/main/xiaoshuo/example.md)<br>
 [随笔](https://github.com/sf-er/zuowen/edit/main/suibi/example.md)<br>
