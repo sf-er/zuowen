@@ -32,8 +32,8 @@ Markdown简便易用，因此成为GitHub网页的标准语言；但MD无法自�
 这是一级标题（换行）=====================  
 ## 友情链接  
 [项目主页](https://sf-er.github.io/)  
-[BBS主页](http://100e3dc9.all123.net/)  
-[term主页](telnet://http://100e3dc9.all123.net:23)  
+[BBS主页](http://sfercongbbs.ticp.io)  
+[term主页](telnet://100e3dc9.all123.net:23)  
 [捐助](https://sf-er.github.io/donate)  
 [Archive Of Our Own](https://sanjose1-cdn.projectsd.org/)  
 [合作伙伴：Terminus2021（其实就是站长的私号嘛）](https://terminus2021.github.io/)
